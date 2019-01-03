@@ -1,0 +1,25 @@
+ Volume in drive C is New Volume
+ Volume Serial Number is 6E2A-1ABA
+
+ Directory of C:\Users\nvn
+
+12/20/2018  09:46 AM    <DIR>          .
+12/20/2018  09:46 AM    <DIR>          ..
+12/19/2018  10:54 AM                54 .gitconfig
+12/19/2018  10:27 AM    <DIR>          .jenkins
+12/04/2018  06:02 PM    <DIR>          Contacts
+12/14/2018  03:30 PM    <DIR>          Desktop
+12/19/2018  06:46 PM    <DIR>          Documents
+12/20/2018  07:46 AM    <DIR>          Downloads
+12/10/2018  12:40 PM    <DIR>          Favorites
+11/17/2013  12:51 AM            47,193 install.xml
+12/04/2018  06:02 PM    <DIR>          Links
+12/04/2018  06:02 PM    <DIR>          Music
+12/04/2018  06:02 PM    <DIR>          Pictures
+12/04/2018  09:32 AM    <DIR>          Roaming
+12/04/2018  06:02 PM    <DIR>          Saved Games
+12/04/2018  06:02 PM    <DIR>          Searches
+12/20/2018  09:47 AM                 0 T3.txt
+12/04/2018  06:02 PM    <DIR>          Videos
+               3 File(s)         47,247 bytes
+              15 Dir(s)  179,783,172,096 bytes free
